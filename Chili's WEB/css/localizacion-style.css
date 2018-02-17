@@ -1,0 +1,23 @@
+h3{
+    font-family: 'Spicy Rice', cursive;
+    font-size: 30px;
+    color: #880000;
+    text-shadow: -2px -2px 1px white, 2px 2px 1px white, -2px 2px 1px white, 2px -2px 1px white;
+}
+.fondo{
+    border: 1px #880000 solid;
+    border-radius: 15px;
+    background-color: #FFD33F;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    color: #880000;
+    font-weight: bold;
+}
+
+iframe{
+    border: solid 5px #880000;
+    border-radius: 15px;
+}

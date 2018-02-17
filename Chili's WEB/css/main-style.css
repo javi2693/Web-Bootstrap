@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+body{
+    background-color: #28a745;
+}
+.header {
+    font-weight: bold;
+    color: red;
+}
+
+.menu:hover {
+    background-color: #008800;
+}
+
+.menu{
+    padding-left: 5px;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    background-color: #006600;
+}
+
+.principal {
+    background-image: url("../img/background.jpg");
+    width: 100%;
+    height: auto;
+    border-bottom: solid 15px #28a745;
+    padding: 10px;
+}
+a{
+    color: #FFFFFF; !important;
+    font-weight: bold;
+}
+a:hover{
+    color: #880000;
+}
+#activo{
+    color: #696969;
+    font-weight: bold;
+}
+.drop-menu{
+    color: #FFFFFF;
+    font-weight: bold;
+}
